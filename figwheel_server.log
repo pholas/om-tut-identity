@@ -1,0 +1,37 @@
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/jack/samples/clojure/om-tut-identity/src/om_tutorial/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  resources/public/js/goog/deps.js
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/om_tutorial/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.471 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/jack/samples/clojure/om-tut-identity/src/om_tutorial/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/om_tutorial/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.387 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/jack/samples/clojure/om-tut-identity/src/om_tutorial/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/om_tutorial/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.382 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/jack/samples/clojure/om-tut-identity/src/om_tutorial/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/om_tutorial/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.359 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/jack/samples/clojure/om-tut-identity/src/om_tutorial/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/om_tutorial/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.374 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/jack/samples/clojure/om-tut-identity/src/om_tutorial/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/om_tutorial/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.356 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/jack/samples/clojure/om-tut-identity/src/om_tutorial/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/om_tutorial/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.362 seconds.[0m
